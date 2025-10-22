@@ -99,7 +99,7 @@
       {
         "name": "Generative AI",
         "description":"Expert in LLMs, RAG, Prompt Engineering using Azure OpenAI (GPT-4, GPT-4o-mini), Hugging Face transformers, and building AI-powered applications for enterprise solutions.",
-        "image": "Python-logo.svg"
+        "image": "genai.png"
       },
       {
         "name": "Blockchain",
@@ -124,12 +124,12 @@
       {
         "name": "Git",
         "description":"I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
-        "image": "Git.png"
+        "image": "git.png"
       },
       {
         "name": "Python",
         "description":"Advanced Python development for AI/ML applications, blockchain solutions, API development using FastAPI/Flask, and enterprise-grade automation systems.",
-        "image": "Python-logo.svg"
+        "image": "python.svg"
       },
       {
         "name": "Cloud & DevOps",
